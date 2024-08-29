@@ -21,10 +21,6 @@
   - PHP
   - MySQL
 
-- **Other Tools:**
-  - GitHub for version control
-  - Stripe for payment processing
-
 ## Usage
 
 1. **Register/Login:**
